@@ -867,6 +867,7 @@ a {
 }
 
 .background-video {
+  z-index: 100;
   width: 690px;
   height: 400px;
   -webkit-box-ordinal-group: 1;
